@@ -1,5 +1,6 @@
 ## Note Taker
 
+[Deployed Website]  https://coughenour87.github.io/Note-Taker/.
 ![Photo of finished Product](assets/images/fin.png)
 ![Photo of finished Product](assets/images/fin2.png)
 
