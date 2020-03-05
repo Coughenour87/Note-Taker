@@ -53,7 +53,7 @@ app.delete("/api/notes/:id", function(req, res) {
 
     fs.writeFile("./db/db.json", JSON.stringify(data), "utf-8", err => {
         if (err) return console.log(err)
-        res.json(Data);
+        res.json(data);
     })
 });
 
